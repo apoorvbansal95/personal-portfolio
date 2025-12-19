@@ -84,7 +84,7 @@ export default function Contact() {
      initial={{opacity:0}}
      whileInView={{opacity:1}}
      viewport={{once:true}}
-     transition={{duration:0.6}}
+     transition={{duration:0.7}}
      >
       <motion.h2
       variants={fadeInUp}
